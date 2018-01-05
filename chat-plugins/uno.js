@@ -713,7 +713,7 @@ exports.commands = {
 		`/uno end - ends the current game of UNO. Requires: % @ * # & ~`,
 		`/uno start - starts the current game of UNO. Requires: % @ * # & ~`,
 		`/uno disqualify [player] - disqualifies the player from the game. Requires: % @ * # & ~`,
-		`/uno hand - displays your own hand.`,
+		`/uno hand - displays your own hand LOL.`,
 		`/uno getusers - displays the players still in the game.`,
 		`/uno [spectate|unspectate] - spectate / unspectate the current private UNO game.`,
 		`/uno suppress [on|off] - Toggles suppression of game messages.`,
