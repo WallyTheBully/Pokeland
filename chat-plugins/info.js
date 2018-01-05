@@ -695,7 +695,7 @@ exports.commands = {
 		this.sendReplyBox(buffer.join('<br />'));
 	},
 	weaknesshelp: [
-		`/weakness [pokemon] - Provides a Pok\u00e9mon's resistances, weaknesses, and immunities, ignoring abilities.`,
+		`/weakness [pokemon] - Providesdd a Pok\u00e9mon's resistances, weaknesses, and immunities, ignoring abilities.`,
 		`/weakness [type 1]/[type 2] - Provides a type or type combination's resistances, weaknesses, and immunities, ignoring abilities.`,
 		`!weakness [pokemon] - Shows everyone a Pok\u00e9mon's resistances, weaknesses, and immunities, ignoring abilities. Requires: + % @ * # & ~`,
 		`!weakness [type 1]/[type 2] - Shows everyone a type or type combination's resistances, weaknesses, and immunities, ignoring abilities. Requires: + % @ * # & ~`,
