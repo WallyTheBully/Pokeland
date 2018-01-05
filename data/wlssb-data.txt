@@ -85,7 +85,7 @@ Moves: Crabhammer, Swords Dance, Knock Off
 Signature Move: Stab Stab
     -Steel Type, 60 BP, Always Hits, Attacks Twice, 20% chance to flinch.
 Notes: Stabby Stabby!
-Rank: N/A.
+Rank: N/A. 
 
 Desokoro
 (Gyarados)
